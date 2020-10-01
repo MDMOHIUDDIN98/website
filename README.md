@@ -6,7 +6,7 @@ What is the R4DS online community?
 
 What do we aim to teach?
 
-Built With
+Built With these
 ----------
 
 -   Hugo 0.38.2
